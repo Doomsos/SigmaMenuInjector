@@ -1,6 +1,6 @@
-[+]Skibidi
-[-]Skibidi
-[+]Skibidi
+[+]Added Freeze All
+[-]Added NameTags
+[+]Fixed NameTags
 [-]Skibidi
 [+]Skibidi
 [-]Skibidi
