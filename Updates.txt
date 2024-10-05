@@ -1,6 +1,4 @@
-[+]Added Freeze All
-[-]Added NameTags
+[-]Removed Freeze All
+[+]Added NameTags
 [+]Fixed NameTags
-[-]Skibidi
-[+]Skibidi
-[-]Skibidi
+[+]Added Lucy Mods
