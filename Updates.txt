@@ -2,6 +2,7 @@
 [+]Added NameTags
 [+]Fixed NameTags
 [+]Added Lucy Mods
-[+]Added Red Lucy Gun
+[-]Removed Red Lucy Gun
 [+]Fixed Lucy Grab Forever
-[+]Added Lucy Float Gun
+[+]Fixed Lucy Float Gun
+[+]Added Lucy Chase Gun
