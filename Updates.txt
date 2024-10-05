@@ -6,3 +6,4 @@
 [+]Fixed Lucy Grab Forever
 [+]Fixed Lucy Float Gun
 [+]Added Lucy Chase Gun
+[+]Added Spaz Lucy Colors
