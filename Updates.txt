@@ -2,3 +2,4 @@
 [+]Added NameTags
 [+]Fixed NameTags
 [+]Added Lucy Mods
+[+]Added Red Lucy Gun
