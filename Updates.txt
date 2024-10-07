@@ -9,3 +9,4 @@
 [+]Added Spaz Lucy Color Gun
 [+]Fixed Lucy Gun
 [+]Added Despawn Lucy
+[+]Added See Player Skeletons
