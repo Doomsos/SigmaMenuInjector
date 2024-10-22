@@ -10,3 +10,4 @@
 [+]Fixed Lucy Gun
 [+]Added Despawn Lucy
 [+]Added See Player Skeletons
+[+]Fixed Kick Mods
