@@ -1,13 +1,2 @@
-[-]Removed Freeze All
-[+]Added NameTags
-[+]Fixed NameTags
-[+]Added Lucy Mods
-[-]Removed Red Lucy Gun
-[+]Fixed Lucy Grab Forever
-[+]Fixed Lucy Float Gun
-[+]Added Lucy Chase Gun
-[+]Added Spaz Lucy Color Gun
-[+]Fixed Lucy Gun
-[+]Added Despawn Lucy
-[+]Added See Player Skeletons
 [+]Fixed Kick Mods
+[+]Added RPCBypass
