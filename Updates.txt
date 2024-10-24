@@ -1,2 +1,4 @@
 [+]Fixed Kick Mods
 [+]Added RPCBypass
+[+]Added Play Moon Event [M] [SS]
+[+]Added Stop Moon Event [M] [SS]
