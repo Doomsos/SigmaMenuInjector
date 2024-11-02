@@ -1,4 +1,4 @@
 [+]Fixed Kick Mods
-[+]Added RPCBypass
-[+]Added Play Moon Event [M] [SS]
-[+]Added Stop Moon Event [M] [SS]
+[-]Removed Lucy Mods
+[-]Removed Moon Mods
+[+]Added Crash Mods GUARDIAN
