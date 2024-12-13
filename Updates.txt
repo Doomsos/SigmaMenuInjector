@@ -1,6 +1,4 @@
-[+]Fixed Kick Mods
-[-]Removed Lucy Mods
-[-]Removed Moon Mods
+[-]Removed Kick Mods
 [+]Added Crash Mods GUARDIAN
 [+]Updated Gui
 [+]Added Target Spam
